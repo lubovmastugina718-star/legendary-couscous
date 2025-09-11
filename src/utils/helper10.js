@@ -1,4 +1,4 @@
-// Utility functions for repos_legendary-couscous
+// Utility functions for repos_hist_legendary-couscous_20250911
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
