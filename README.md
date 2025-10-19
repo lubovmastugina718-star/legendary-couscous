@@ -7,3 +7,7 @@ Initial commit.
 ## Update
 
 Add error handling
+
+## Update
+
+Fix race condition
