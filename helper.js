@@ -4,3 +4,5 @@ function helper() {
 }
 
 # Add input validation
+
+# Fix async/await issue
