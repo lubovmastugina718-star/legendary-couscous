@@ -25,3 +25,7 @@ Fix formatting
 ## Update
 
 Fix compatibility issue
+
+## Update
+
+Fix typo in README
