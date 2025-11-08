@@ -29,3 +29,7 @@ Fix compatibility issue
 ## Update
 
 Fix typo in README
+
+## Update
+
+Fix memory leak
