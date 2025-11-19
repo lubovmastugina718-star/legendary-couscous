@@ -1,0 +1,3 @@
+interface util {
+    value: string;
+}
