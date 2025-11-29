@@ -33,3 +33,7 @@ Fix typo in README
 ## Update
 
 Fix memory leak
+
+## Update
+
+Fix timeout issue
