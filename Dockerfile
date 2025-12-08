@@ -3,3 +3,5 @@
 # Improve code readability
 
 # Update environment variables
+
+# Update build script
