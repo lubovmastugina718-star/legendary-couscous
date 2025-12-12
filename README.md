@@ -41,3 +41,7 @@ Fix timeout issue
 ## Update
 
 Clean up code
+
+## Update
+
+Add type hints
