@@ -45,3 +45,7 @@ Clean up code
 ## Update
 
 Add type hints
+
+## Update
+
+Update .gitignore
