@@ -49,3 +49,7 @@ Add type hints
 ## Update
 
 Update .gitignore
+
+## Update
+
+Add configuration options
