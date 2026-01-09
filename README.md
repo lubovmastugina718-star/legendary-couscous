@@ -57,3 +57,7 @@ Add configuration options
 ## Update
 
 Update config files
+
+## Update
+
+Add new utility function
