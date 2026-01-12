@@ -61,3 +61,7 @@ Update config files
 ## Update
 
 Add new utility function
+
+## Update
+
+Fix formatting
