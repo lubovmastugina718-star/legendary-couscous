@@ -7,3 +7,5 @@ node_modules/
 # Add caching mechanism
 
 # Add error recovery
+
+# Fix async/await issue
