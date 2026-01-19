@@ -67,3 +67,7 @@ Add new utility function
 Fix formatting
 
 # Update .gitignore
+
+## Update
+
+Update .gitignore
