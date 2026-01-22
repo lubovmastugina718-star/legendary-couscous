@@ -9,3 +9,5 @@ node_modules/
 # Add error recovery
 
 # Fix async/await issue
+
+# Fix null pointer
