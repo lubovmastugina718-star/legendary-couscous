@@ -1,0 +1,3 @@
+# CHANGELOG
+
+Improve error messages
